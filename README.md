@@ -7,10 +7,16 @@ Note- 1.Before starting anything remApi.m ,remoteApiProto.m ,the appropriate rem
       
 ![](picture/x-z.gif)
 
-simulation- 1.Run simulation scene x-z 
-            2.Run in matlab scene xy.m code 
+simulation- 
+
+1.Run simulation scene x-z 
+
+2.Run in matlab scene xy.m code 
             
 ![](picture/x-y.gif)
 
-simulation- 1.Run simulation scene x-y 
-            2.Run in matlab scene xy.m code
+simulation- 
+
+1.Run simulation scene x-y 
+
+2.Run in matlab scene xy.m code
