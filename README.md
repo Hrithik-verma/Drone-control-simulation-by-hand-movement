@@ -1,5 +1,5 @@
 # Drone-control-simulation-by-hand-movement
-Simulation is done in V-rep(coppelasim) software with help of Matlab sofware for image processing
+Simulation is done in V-rep(coppelasim) software with help of Matlab software for image processing
 
 NOTE-
 
